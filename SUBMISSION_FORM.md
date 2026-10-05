@@ -1,7 +1,7 @@
 # Ajaia Docs — Submission (Pansare Komal)
 
 ## Links
-- **Live product:** <<LIVE_URL>>
+- **Live product:** https://ajaia-docs-tka0.onrender.com
 - **Google Drive folder (all materials):** <<DRIVE_FOLDER_LINK>>
 - **Walkthrough video (3–5 min):** <<VIDEO_URL>>
 

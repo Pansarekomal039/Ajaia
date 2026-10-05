@@ -7,7 +7,7 @@
 | Architecture note | `ARCHITECTURE.md` |
 | AI workflow note | `AI_WORKFLOW.md` |
 | Walkthrough video URL | `VIDEO_URL.txt` |
-| Live product URL | _<paste Render URL>_ |
+| Live product URL | https://ajaia-docs-tka0.onrender.com |
 | Deploy config | `render.yaml` |
 
 ## Test accounts
