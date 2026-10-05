@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: ajaia-docs
+    runtime: node
+    plan: free
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      # Free plan has an ephemeral disk: data resets on redeploy/restart (seed users are recreated).
+      # For durable data, attach a Render disk and set DATA_DIR to its mount path (e.g. /var/data).
+      - key: DATA_DIR
+        value: /tmp/ajaia-data
