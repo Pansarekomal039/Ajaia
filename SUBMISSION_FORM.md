@@ -2,8 +2,8 @@
 
 ## Links
 - **Live product:** https://ajaia-docs-tka0.onrender.com
-- **Google Drive folder (all materials):** <<DRIVE_FOLDER_LINK>>
-- **Walkthrough video (3–5 min):** <<VIDEO_URL>>
+- **Google Drive folder (all materials):** https://drive.google.com/drive/folders/1YeNNXIG0fRG1BeGtXHZ9I_Sf-gh1XpK4?usp=sharing
+- **Walkthrough video (3–5 min):** https://drive.google.com/file/d/14UeqMyMzBVICzudCEj_c6LrbJSk6c3JZ/view?usp=sharing
 
 ## Test accounts (no password; mocked auth, pick a user on /login)
 | Name | Email |

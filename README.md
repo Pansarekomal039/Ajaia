@@ -2,7 +2,7 @@
 
 Next.js 15 (App Router) + TipTap rich-text editor + SQLite (better-sqlite3). One codebase serves UI and API.
 
-**Live demo:** https://ajaia-docs-tka0.onrender.com  ·  **Walkthrough video:** see `VIDEO_URL.txt`
+**Live demo:** https://ajaia-docs-tka0.onrender.com  ·  **Walkthrough video:** https://drive.google.com/file/d/14UeqMyMzBVICzudCEj_c6LrbJSk6c3JZ/view?usp=sharing
 
 ## Run locally
 Requires Node 20+ (tested on 22).
